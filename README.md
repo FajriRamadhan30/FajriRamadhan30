@@ -47,3 +47,16 @@
 
  <img src="Pixel.gif" alt="Deskripsi GIF" width="500">
 </div>
+
+<div align="center">
+  <h2>📊 GitHub Stats</h2>
+
+  <!-- GitHub Stats -->
+  ![Fajri's GitHub stats](https://github-readme-stats.vercel.app/api?username=FajriRamadhan30&show_icons=true&theme=radical)
+
+  <!-- Most Used Languages -->
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FajriRamadhan30&layout=compact&theme=radical)
+
+  <!-- GitHub Streak Stats -->
+  ![GitHub Streak](https://streak-stats.demolab.com?user=FajriRamadhan30&theme=radical&hide_border=true)
+</div>
