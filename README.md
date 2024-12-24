@@ -20,3 +20,5 @@
 <img src="Pixel.gif" alt="Deskripsi GIF" width="500">
 <br>
 <br>
+
+<img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/python.svg" width="24" height="24" alt="Python" />
