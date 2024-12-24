@@ -14,7 +14,7 @@
 
  💬 Ask me about **Javascript, Python.. or anything [here](https://github.com/FajriRamadhan30)**
 
- 😄 Fun fact **Hot Water Freezes Faster than Cold Water**
+ 😄 Fun fact **HTML, CSS, and JavaScript are not programming languages—they are scripting and markup languages.**
 
  <br/>
 
