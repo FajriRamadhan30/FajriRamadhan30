@@ -12,13 +12,20 @@
  
  🌱 I’m currently learning **Kotlin, Laravel**
 
-💬 Ask me about **Javascript, Python.. or anything [here](https://github.com/FajriRamadhan30)**
+ 💬 Ask me about **Javascript, Python.. or anything [here](https://github.com/FajriRamadhan30)**
 
-😄  Fun fact **Hot Water Freezes Faster than Cold Water**
+ 😄 Fun fact **Hot Water Freezes Faster than Cold Water**
 
+ <br/>
 
-<img src="Pixel.gif" alt="Deskripsi GIF" width="500">
-<br>
-<br>
+ <!-- Programming Languages Icons -->
+ <p>
+    <img src="https://img.shields.io/badge/Language-JavaScript-yellow?logo=javascript&logoColor=white&style=for-the-badge" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/Language-Python-blue?logo=python&logoColor=white&style=for-the-badge" alt="Python" />
+    <img src="https://img.shields.io/badge/Language-Kotlin-purple?logo=kotlin&logoColor=white&style=for-the-badge" alt="Kotlin" />
+    <img src="https://img.shields.io/badge/Language-PHP-787cb5?logo=php&logoColor=white&style=for-the-badge" alt="PHP" />
+    <img src="https://img.shields.io/badge/Framework-Laravel-ff2d20?logo=laravel&logoColor=white&style=for-the-badge" alt="Laravel" />
+ </p>
 
-<img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/python.svg" width="24" height="24" alt="Python" />
+ <img src="Pixel.gif" alt="Deskripsi GIF" width="500">
+</div>
