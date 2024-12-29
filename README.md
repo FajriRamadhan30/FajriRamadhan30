@@ -24,7 +24,7 @@
 
 <!-- Animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=0095D5&lines=Mobile+Developer+%7C+Web+Developer;Crafting+Elegant+Digital+Solutions;Always+Learning+%7C+Always+Growing;Transforming+Ideas+into+Code" alt="Typing animation">
+  <img src="https://readme-typing-svg.herokuapp.com?color=4DB33D&lines=Mobile+Developer+%7C+Web+Developer;Crafting+Elegant+Digital+Solutions;Always+Learning+%7C+Always+Growing;Transforming+Ideas+into+Code" alt="Typing animation">
 
 <br>
  <img src="Pixel.gif" alt="Deskripsi GIF" width="500">
