@@ -21,11 +21,13 @@
 <br>
  <img src="Pixel.gif" alt="Deskripsi GIF" width="500">
 </div>
-
+<br>
 
  <!-- Programming Languages Icons -->
 <div align="center">
-         <img src="https://skillicons.dev/icons?i=kotlin,javascript,dart,flutter,bootstrap,html,css,php,laravel" />
+         <img src="https://skillicons.dev/icons?i=kotlin,javascript,dart,c,c++,html,css,php,python" />
+    
+         <img src="https://skillicons.dev/icons?i=laravel,bootstrap,androidstudio,vscode" />   
 </div>
 <br><hr>
 
