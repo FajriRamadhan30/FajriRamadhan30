@@ -26,9 +26,9 @@
  <!-- Programming Languages Icons -->
 <div align="center">
          <h3>Programming Languages</h3>   
-         <img src="https://skillicons.dev/icons?i=kotlin,javascript,dart,c,cpp,html,css,php,python" /><br>
-    <h3>Framework, Tools, & IDE</h3><br>
-    <img src="https://skillicons.dev/icons?i=androidstudio,vscode,flutter,nodejs,mysql,git,github,postman,figma,bootstrap" /> 
+         <img src="https://skillicons.dev/icons?i=kotlin,javascript,dart,c,cpp,html,css,php,python,R" /><br>
+    <h3>Framework, Tools, & IDE</h3>
+    <img src="https://skillicons.dev/icons?i=androidstudio,vscode,tableau,jupiter,flutter,nodejs,mysql,git,github,postman,figma,bootstrap" /> 
 </div>
 <br><hr>
 
