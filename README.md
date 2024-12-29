@@ -2,21 +2,31 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Fajri+Ramadhan!;" />
 </h1>
 
-<h3 align="center">A talented Web Developer from Indonesia, skilled in creating innovative and intuitive digital platforms.</h3>
+<h3 align="center">
+  🚀 A Passionate Mobile & Web Developer from Indonesia 🌏 <br/>
+  Crafting Seamless Digital Experiences with <span style="color: #F7DF1E;">PHP</span>, <span style="color: #4DB33D;">Laravel</span>, and <span style="color: #0095D5;">Kotlin</span>.
+</h3>
 
 <br/>
 
 <div align="center">
- 
- 🔭 I’m currently working on **a marketplace**
- 
- 🌱 I’m currently learning **Kotlin, Laravel**
+  
+  🔭 I’m currently building **innovative web and mobile applications** that solve real-world problems. <br/>
+  
+  🌱 I’m always learning and exploring the latest trends in **Kotlin** and **Laravel**, while mastering **responsive design**. <br/>
+  
+  💬 Feel free to ask me about **PHP, Kotlin, Laravel**, or anything tech-related in [my GitHub discussions](https://github.com/FajriRamadhan30). <br/>
+  
+  🎯 Fun fact: **I'm a firm believer that technology is best when it brings people together.**
+</div>
 
- 💬 Ask me about **Kotlin, PHP.. or anything [here](https://github.com/FajriRamadhan30)**
+<br/>
 
- 😄 Fun fact **HTML & CSS are not programming languages—they are scripting and markup languages.**
+<!-- Animation -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=0095D5&lines=Mobile+Developer+%7C+Web+Developer;Crafting+Elegant+Digital+Solutions;Always+Learning+%7C+Always+Growing;Transforming+Ideas+into+Code" alt="Typing animation">
+</div>
 
- <br/>
 
 <br>
  <img src="Pixel.gif" alt="Deskripsi GIF" width="500">
