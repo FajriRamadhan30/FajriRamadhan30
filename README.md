@@ -48,23 +48,16 @@
  <img src="Pixel.gif" alt="Deskripsi GIF" width="500">
 </div>
 
+<h2 align="center">📊 GitHub Stats</h2>
+
 <div align="center">
-  <h2>📊 GitHub Stats</h2>
-  <table>
-    <tr>
-      <td>
-        <!-- GitHub Stats -->
-        <img src="https://github-readme-stats.vercel.app/api?username=FajriRamadhan30&show_icons=true&theme=radical" alt="Fajri's GitHub stats">
-      </td>
-      <td>
-        <!-- Most Used Languages -->
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FajriRamadhan30&layout=compact&theme=radical" alt="Top Langs">
-      </td>
-      <td>
-        <!-- GitHub Streak Stats -->
-        <img src="https://streak-stats.demolab.com?user=FajriRamadhan30&theme=radical&hide_border=true" alt="GitHub Streak">
-      </td>
-    </tr>
-  </table>
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=AzzikraPraqastaKusuma123&show_icons=true&theme=radical" alt="Azzikra's GitHub Stats" height="180em" />
+  
+  <!-- Most Used Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AzzikraPraqastaKusuma123&layout=compact&theme=radical" alt="Azzikra's Top Languages" height="180em" />
+  
+  <!-- GitHub Streak Stats -->
+  <img src="https://streak-stats.demolab.com?user=AzzikraPraqastaKusuma123&theme=radical&hide_border=true" alt="Azzikra's GitHub Streak" height="180em" />
 </div>
 
