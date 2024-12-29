@@ -4,7 +4,7 @@
 
 <h3 align="center">
   🚀 A Passionate Mobile & Web Developer from Indonesia 🌏 <br/>
-  Crafting Seamless Digital Experiences with <span style="color: #4DB33D;">Laravel</span>, and <span style="color: #0095D5;">Kotlin</span>.
+  Crafting Seamless Digital Experiences with <span style="color: #4DB33D;">Laravel</span> and <span style="color: #0095D5;">Kotlin</span>.
 </h3>
 
 <br/>
@@ -34,7 +34,7 @@
  <!-- Programming Languages Icons -->
 <div align="center">
          <h3>Programming Languages</h3>   
-         <img src="https://skillicons.dev/icons?i=kotlin,javascript,dart,c,cpp,c#,html,css,php,python,r" /><br>
+         <img src="https://skillicons.dev/icons?i=kotlin,javascript,dart,c,cpp,csharp,html,css,php,python,r" /><br>
     <h3>Framework, Tools, & IDE</h3>
     <img src="https://skillicons.dev/icons?i=androidstudio,vscode,laravel,flutter,nodejs,mysql,git,github,postman,figma,bootstrap" /> 
 </div>
