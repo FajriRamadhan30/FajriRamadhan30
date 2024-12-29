@@ -18,15 +18,16 @@
 
  <br/>
 
+<br>
+ <img src="Pixel.gif" alt="Deskripsi GIF" width="500">
+</div>
+
+
  <!-- Programming Languages Icons -->
 <div align="center">
          <img src="https://skillicons.dev/icons?i=kotlin,javascript,dart,flutter,bootstrap,html,css,php,laravel" />
 </div>
 <br><hr>
-
-<br>
- <img src="Pixel.gif" alt="Deskripsi GIF" width="500">
-</div>
 
 <h2 align="center">📊 GitHub Stats</h2>
 
