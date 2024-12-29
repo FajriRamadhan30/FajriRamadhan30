@@ -12,9 +12,9 @@
  
  🌱 I’m currently learning **Kotlin, Laravel**
 
- 💬 Ask me about **Javascript, Python.. or anything [here](https://github.com/FajriRamadhan30)**
+ 💬 Ask me about **Kotlin, PHP.. or anything [here](https://github.com/FajriRamadhan30)**
 
- 😄 Fun fact **HTML, CSS, and JavaScript are not programming languages—they are scripting and markup languages.**
+ 😄 Fun fact **HTML & CSS are not programming languages—they are scripting and markup languages.**
 
  <br/>
 
