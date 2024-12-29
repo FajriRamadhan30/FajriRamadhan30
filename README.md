@@ -50,13 +50,21 @@
 
 <div align="center">
   <h2>📊 GitHub Stats</h2>
-
-  <!-- GitHub Stats -->
-  ![Fajri's GitHub stats](https://github-readme-stats.vercel.app/api?username=FajriRamadhan30&show_icons=true&theme=radical)
-
-  <!-- Most Used Languages -->
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FajriRamadhan30&layout=compact&theme=radical)
-
-  <!-- GitHub Streak Stats -->
-  ![GitHub Streak](https://streak-stats.demolab.com?user=FajriRamadhan30&theme=radical&hide_border=true)
+  <table>
+    <tr>
+      <td>
+        <!-- GitHub Stats -->
+        <img src="https://github-readme-stats.vercel.app/api?username=FajriRamadhan30&show_icons=true&theme=radical" alt="Fajri's GitHub stats">
+      </td>
+      <td>
+        <!-- Most Used Languages -->
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FajriRamadhan30&layout=compact&theme=radical" alt="Top Langs">
+      </td>
+      <td>
+        <!-- GitHub Streak Stats -->
+        <img src="https://streak-stats.demolab.com?user=FajriRamadhan30&theme=radical&hide_border=true" alt="GitHub Streak">
+      </td>
+    </tr>
+  </table>
 </div>
+
