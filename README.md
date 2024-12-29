@@ -25,9 +25,8 @@
 
  <!-- Programming Languages Icons -->
 <div align="center">
-         <img src="https://skillicons.dev/icons?i=kotlin,javascript,dart,c,c++,html,css,php,python" />
-    
-         <img src="https://skillicons.dev/icons?i=laravel,bootstrap,androidstudio,vscode" />   
+         <img src="https://skillicons.dev/icons?i=kotlin,javascript,dart,c,cpp,html,css,php,python" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,vscode,flutter,nodejs,mysql" /> 
 </div>
 <br><hr>
 
