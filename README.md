@@ -4,7 +4,7 @@
 
 <h3 align="center">
   🚀 A Passionate Mobile & Web Developer from Indonesia 🌏 <br/>
-  Crafting Seamless Digital Experiences with <span style="color: #4DB33D;">Laravel</span> and <span style="color: #0095D5;">Kotlin</span>.
+  Crafting Seamless Digital Experiences with <span style="color: #4DB33D;">Node.js</span> and <span style="color: #0095D5;">Kotlin</span>.
 </h3>
 
 <br/>
@@ -13,7 +13,7 @@
   
   🔭 I’m currently building **innovative web and mobile applications** that solve real-world problems. <br/>
   
-  🌱 I’m always learning and exploring the latest trends in **Kotlin** and **Laravel**, while mastering **responsive design**. <br/>
+  🌱 I’m always learning and exploring the latest trends in **Kotlin** and **Node.js**, while mastering **responsive design**. <br/>
   
   💬 Feel free to ask me about **PHP, Kotlin, javaScript**, or anything tech-related in [my GitHub discussions](https://github.com/FajriRamadhan30). <br/>
   
