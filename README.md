@@ -36,7 +36,7 @@
          <h3>Programming Languages</h3>   
          <img src="https://skillicons.dev/icons?i=kotlin,javascript,dart,c,cpp,html,css,php,ruby,python,r" /><br>
     <h3>Framework, Tools, & IDE</h3>
-    <img src="https://skillicons.dev/icons?i=androidstudio,vscode,laravel,flutter,nodejs,mysql,git,github,postman,figma,bootstrap,express,react,tableau" /> 
+    <img src="https://skillicons.dev/icons?i=androidstudio,vscode,laravel,flutter,nodejs,mysql,git,github,postman,figma,bootstrap,express,react,mongodb" /> 
 </div>
 <br><hr>
 
